@@ -36,3 +36,8 @@ Game logic was implemented to track user input, validate guesses, update the gam
 ## Deployment Link
 
 [http://hangmangame.great-site.net](http://hangmangame.great-site.net)
+
+## Demo Link
+
+[https://drive.google.com/file/d/1HaD8LhNlzA4Yw325p-p7aCNA3uiU1iqO/view?usp=sharing] (Demo video)
+
