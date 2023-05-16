@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Hangman Game</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
 
-        h1 {
-            text-align: center;
-        }
-
-        p {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 <body>
     <div>
         <h1>The Hangman Game</h1><br>
@@ -35,8 +15,9 @@
             <li>PHP</li>
             <li>MySQL</li>
         </ul>
-        <br>    
-
+        <br>   
+    </div>
+<div>
         <p>Goal of Project:</p>
         <p>The goal of the hangman game project was to create an interactive and entertaining game where users can guess a word by selecting letters, with a limited number of wrong guesses allowed.</p>
 
@@ -67,6 +48,5 @@
         <br>
         <p>Deployment Link: <a href="http://hangmangame.great-site.net">http://hangmangame.great-site.net</a></p>
     </div>
-</body>
-</html>
+
 ``
