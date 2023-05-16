@@ -16,8 +16,8 @@
             <li>MySQL</li>
         </ul>
         <br>   
-    </div>
-<div>
+
+       
         <p>Goal of Project:</p>
         <p>The goal of the hangman game project was to create an interactive and entertaining game where users can guess a word by selecting letters, with a limited number of wrong guesses allowed.</p>
 
